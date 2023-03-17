@@ -6,8 +6,7 @@
 /**
  * main - if and else statements
  *
- * Rerurn: 0 if successful
- *
+ * Return: 0 always
  */
 int main(void)
 {
