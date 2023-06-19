@@ -1,6 +1,6 @@
 #include <stdio.h>
-/*
- * main - prints name of file it was compiled from
+/**
+ * main - prints name of file compiled from
  *
  * Return: 0 on success
  */
