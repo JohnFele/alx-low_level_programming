@@ -6,5 +6,5 @@
  */
 int main(void)
 {
-	printf("%s", _FILE_);
+	printf("%s\n", _FILE_);
 }
