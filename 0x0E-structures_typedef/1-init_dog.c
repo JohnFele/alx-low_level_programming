@@ -2,8 +2,8 @@
 #include <dog.h>
 
 /**
- * dog - struct data type
- * @p: pointer to struct
+ * init_dog - struct data type
+ * @d: pointer to struct
  * @name: name
  * @age: age
  * @owner: owner
